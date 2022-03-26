@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1 kjkjkkk" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1 kjkjkkk", "neighborhood": "Brooklyn" },
+    { "id": 2, "title": "Post 2", "neighborhood": "Manhattan" },
+    { "id": 3, "title": "Post 3", "neighborhood": "Manhattan" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
