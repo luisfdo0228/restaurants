@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Emily",
+      "username": "Brooklyn"
+    },
+    {
+      "id": 2,
+      "name": "Mission Chinese Food",
+      "username": "Manhattan"
+    },
+    {
+      "id": 3,
+      "name": "Katz's Delicatessen",
+      "username": "Manhattan"
+    },
+    {
+      "id": 4,
+      "name": "Superiority Burger",
+      "username": "Manhattan"
+    },
+    {
+      "id": 5,
+      "name": "Hometown BBQ",
+      "username": "Brooklyn"
+    }
+]
