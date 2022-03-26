@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "restaurants": [
     { "id": 1, "neighborhood": "Brooklyn", "name": "Emily" },
     { "id": 2, "neighborhood": "Manhattan", "name": "Mission Chinese Food" },
     { "id": 3, "neighborhood": "Manhattan", "name": "Katz's Delicatessen" },
