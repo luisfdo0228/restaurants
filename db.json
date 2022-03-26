@@ -1,27 +1,14 @@
-[
-    {
-      "id": 1,
-      "name": "Leanne Graham",
-      "city": "Bret"
-    },
-    {
-      "id": 2,
-      "name": "Ervin Howell",
-      "city": "Antonette"
-    },
-    {
-      "id": 3,
-      "name": "Clementine Bauch",
-      "city": "Samantha"
-    },
-    {
-      "id": 4,
-      "name": "Patricia Lebsack",
-      "city": "Karianne"
-    },
-    {
-      "id": 5,
-      "name": "Chelsey Dietrich",
-      "city": "Kamren"
-    }
-]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1 kjkjkkk" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
